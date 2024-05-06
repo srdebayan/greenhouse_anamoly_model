@@ -17,7 +17,7 @@ port = 1883
 topic_monitoring = "greenhouse/monitoring"
 
 # InfluxDB configuration
-influxdb_host = "localhost"
+influxdb_host = "173.30.0.104"
 influxdb_port = 8086
 influxdb_token = "b320d3x72fwC6N-E07xD-pa1_B9jm6Wi2cNLH1ZPDqe2qkA3e_VbQNGrHwTfrPnHlUFmuea7PqCSQXFAmxJDPQ=="
 influxdb_org = "univaq"
