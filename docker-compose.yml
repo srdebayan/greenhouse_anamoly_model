@@ -130,7 +130,7 @@ services:
 
     networks:
       se4as-network:
-        ipv4_address: 173.30.0.106
+        ipv4_address: 173.30.0.107
     depends_on:
       - mosquitto
       - planner
