@@ -4,5 +4,7 @@ ADD analyzer.py .
  
 RUN pip install paho-mqtt 
 RUN pip install influxdb-client
+RUN pip install numpy
+RUN pip install -U scikit-learn
  
 CMD [ "python", "./analyzer.py" ]
