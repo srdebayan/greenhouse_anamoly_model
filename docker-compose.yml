@@ -151,4 +151,4 @@ networks:
         - subnet: 173.30.0.0/16
 
 volumes:
-  influxdb-data:
+  influxdb-data: {}
